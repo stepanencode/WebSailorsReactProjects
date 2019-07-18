@@ -15,7 +15,7 @@ class App extends  React.Component {
             .then((response) => {
             this.setState({ images: response.data.results });
         });
-    }
+    };
 
     render() {
         return(
