@@ -1,0 +1,5 @@
+/src
+  /actions ->  Contains files related to action creators
+  /components -> Files related to components
+  /reducers -> Files related to reducers
+  index.js -> Sets up both the react and redux sides of the app
